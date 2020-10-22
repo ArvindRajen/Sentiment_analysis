@@ -1,2 +1,5 @@
 # Sentiment_analysis
-Trying to read Sentiements from Amazon Book reviews
+Trying to read Sentiments from Amazon Book reviews
+
+Sentiment Analysis - Trial File
+Category Classifier - Main File
